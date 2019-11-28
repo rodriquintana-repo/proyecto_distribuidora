@@ -1,6 +1,3 @@
-<?php
-echo "esto es un test";
-?>
 <?php include_once "encabezado.php" ; ?>
 <?php
 include_once "conexion.php";
